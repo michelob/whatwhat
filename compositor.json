@@ -47,7 +47,11 @@
       "links": [
         {
           "href": "https://github.com/michelob/whatwhat",
-          "text": "GitHub"
+          "text": "noooooo"
+        },
+        {
+          "href": "https://www.google.com",
+          "text": "test"
         }
       ]
     },
@@ -66,7 +70,9 @@
           "user": "michelob",
           "repo": "whatwhat"
         }
-      ]
+      ],
+      "text": "dddddd",
+      "slug": "ddddddd"
     },
     {
       "component": "article",
@@ -86,7 +92,8 @@
           "href": "https://github.com/michelob",
           "text": "michelob"
         }
-      ]
+      ],
+      "heading": "ddkdkdkdkdkdkdkddkdkdkd"
     }
   ]
 }
